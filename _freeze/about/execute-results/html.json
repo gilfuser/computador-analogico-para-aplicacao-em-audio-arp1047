@@ -1,0 +1,12 @@
+{
+  "hash": "c84ab1a1e1b2e9a94ed4063724b1fbc0",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: \"Quarto Basics\"\nformat:\n  html:\n    code-fold: true\njupyter: python3\n---\n\n\nasdfasdfsajkjk alala liriri\n\n",
+    "supporting": [
+      "about_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}
