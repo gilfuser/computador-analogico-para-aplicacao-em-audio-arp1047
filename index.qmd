@@ -1,5 +1,6 @@
 ---
-title: "Quarto Basics"
+title: "Computador Analógico para Aplicação em Áudio"
+subtitle: " Filtro/Ressonador Controlado por Tensão"
 format:
   html:
     code-fold: true
@@ -7,14 +8,13 @@ jupyter: python3
 engine: knitr
 ---
 
-```{r}
-#| echo: false
-library(reticulate)
-use_python("/home/linuxbrew/.linuxbrew/bin/python3")  # Use path from which python3
-```
+![Módulo ARP 1047](imagens/arp-module_1047.jpg)
 
-Flkjjkor a demonstration of a line plot on a polar axis, see @fig-polar.
+# Resumo
 
+Computadores analógicos são utilizados em aplicações como inteligência artificial, redes neurais, medicina e simulação de processos físicos complexos, pois oferecem ganhos de eficiência e velocidade em relação aos métodos digitais. Têm a capacidade de resolver equações diferenciais ordinárias e simular o comportamento de sistemas dinâmicos contínuos [1], característica compartilhada por alguns sintetizadores e módulos de processamento de áudio. O objetivo deste trabalho de conclusão de curso é compreender e recriar o circuito do filtro/ressonador multimodo ARP 1047 [2], explorando suas bases na computação analógica e sua aplicabilidade na síntese sonora. A pesquisa envolve a análise do circuito original, sua simulação e a construção de um protótipo funcional. Além disso, busca-se avaliar seu desempenho, comparando suas características com o projeto original e investigando possíveis melhorias.
+
+<!--
 ```{python}
 #| label: fig-polar
 #| fig-cap: "A line plot on a polar axis"
@@ -32,4 +32,4 @@ ax.set_rticks([0.5, 1, 1.5, 2]);
 ax.grid(True);
 plt.show()
 ```
-
+-->

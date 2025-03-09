@@ -6,13 +6,15 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: home
+      - href: bibliografia.qmd
+        text: bibliografia
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme:
+      light: flatly
+      dark: darkly
     toc: true
 
 execute:

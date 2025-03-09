@@ -1,0 +1,89 @@
+Aqui está a bibliografia em construção, ainda um pouco caótica e exagerada.Tem que ser organizada e editada em relação ao conteúdo mais ou menos relevante para o trabalho. Também carecem de notas, que podem ser feitas com o uso de plugin específico para o navegador, quando for o caso, ou nativamente com o software Okular, para visualização de PDF no Linux, ou no Kindle.
+
+Algumas referências devem ser redundantes ou conterem pequenos trechos relevantes em meio a assuntos que são, em sua maior parte, apenas tangentes. Indentificar esses textos é parte da organização a ser feita.
+
+As bibliografias lidas e analisadas serão marcadas.
+
+# Classificação da bibliografia
+
+A bibliografia pode ser classificada em três eixos e assuntos, que podem, eventualmente, se sobrepor:
+
+## Eixos
+
+1. História [H]
+2. Teoria [T]
+3. Engenharia [E]
+4. Música [M]
+
+## Assuntos gerais
+
+1. Síntese sonora, sintetizadores e processadores de áudio [S]
+2. Computadores analógicos [C]
+
+## Assuntos específicos
+
+1. ARP 1470 [A]
+
+# Websites e forums online
+
++ [Site da fundação que cuida do legado da empresa e do inventor do ARP2500 e outros sinths](https://alanrpearlmanfoundation.org/)
+
++ [x] [A Tribute to the ARP 2500, the Close Encounters Synth](https://reverb.com/en-br/news/a-brief-history-of-the-arp-2500)
+
++ [x] [The ARP Module 1047 Multimode Filter/Resonator](https://alanrpearlmanfoundation.org/the-arp-module-1047-multimode-filter-resonator/)
+
++ [Discussão sobre o álbum Kiema, de Eliane Radigue, feito com o ARP2500](https://www.modwiggler.com/forum/viewtopic.php?t=246289)
+[Sobre os "submódulos" utilizados nos sintetizadores ARP](https://till.com/arptech/modmain.htm)
+
++ [Conteúdo histórico, técnico e imagens do ARP2500. Produz uma versão Eurorack do 1047](https://www.discretesynthesizers.com/arptronics/arp2500.htm)
+[Discussão sobre o CMS1047, a versão Eurorack citada acima](https://modwiggler.com/forum/viewtopic.php?t=193152)
+
++ [A Behringer tem versões de vários módulos do ARP2500. O Behringer 1047 não tem o resonador percussivo](https://www.behringer.com/product.html?modelCode=0720-ABZ)
+
++ [belas fotos](https://www.matrixsynth.com/2007/09/arp-2500.html)
+
++ [Inteligência artificial analógica é demonstrada em redes neurais físicas](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=inteligencia-artificial-analogica-treinada-redes-neurais-fisicas&utm_source=chatgpt.com)
+
++ [Don’t Call it a Synthesizer: Remembering Donald Buchla’s Modular Electronic Music System](https://musicologynow.org/dont-call-it-a-synthesizer-remembering-donald-buchlas-modular-electronic-music-system)
+
++ [Creative Non-Fiction Essay—The Problem of Persistent Technology Narratives and Practioner Use: The Case of the Moog Synthesizer and Moogfest, or Will Analog Survive?](https://tcjournal.org/vol3/hood)
+
++ [Building Analog Neuromorphic Compute Units to Better Perform MAC Operations](https://embeddedcomputing.com/technology/analog-and-power/power-semiconductors-wireless-charging/building-analog-neuromorphic-compute-units-to-better-perform-mac-operations)
+
++ [Recent progress in analog memory-based accelerators for deep learning](https://iopscience.iop.org/article/10.1088/1361-6463/aac8a5)
+[ ARP 2500 - 1047 Multimode Filter / Resonator (detalhes sobre o uso do filtro/resonador)](https://djjondent.blogspot.com/2021/08/arp-2500-1047-multimode-filter-resonator.html)
+
++ [Were analog computers the real ancestors of synthesizers? (discussão em fórum)](https://forum.vintagesynth.com/viewtopic.php?t=80609)
+
++ [wikipedia - Analog_computer](https://en.wikipedia.org/wiki/Analog_computer)
+
++ [Analog Computer (bibliografia e capítulos relevantes ao tema)](https://www.sciencedirect.com/topics/computer-science/analog-computer)
+
++ [Sound Synthesis Based on Ordinary Differential Equations](https://direct.mit.edu/comj/article/39/3/46/94533/Sound-Synthesis-Based-on-Ordinary-Differential)
+[Virtual Acoustic Musical Instruments: Review and Update (mais voltado à síntese digital)](https://ccrma.stanford.edu/~jos/jnmr/jnmr.pdf)
++ [Software-defined analog (pequeno computador analógico programável!)](https://zrna.org/)
+
++ [The Modules of the Vintage ARP 2500 – Part 2 (alguns detalhes técnicos sobre o 1047)](https://www.dev.rofilm-media.net/node/351)
+
++ [ARP2500 2 article (video com medição e comparação entre o arp1047 e o Moog)](https://www.youtube.com/watch?v=_xZJEBxBcpM)
+
++ [ARP 2500 Éliane Radigue Tribute Feat: OMBIENT- The sounds from this machine are amazing!](https://emeapp.org/2022/04/26/arp-2500-eliane-radigue-tribute-feat-ombient-the-sounds-are-amazing/)
+
+
+# Livros
+
++ [x] [Analog and Hybrid Computer Programming, Bernd Ulmann. Walter de Gruyter GmbH, 2020.](https://www.degruyter.com/document/doi/10.1515/9783110662207/html)
+
++ [ ] [Basics of analog computers, THOS. D. TRUITT e A. E. ROGERS. JOHN F. RIDER PUBLISHER, INC. NEW YORK 1960]()
+
+# Artigos, manuais e textos técnicos
+
++ [ ] [**Electrical Design and Musical Applications of an Unconditionally Stable Combination Voltage Controlled Filter/Resonator. Dennis P Collin. 1971.**](https://www.guitarfool.com/ARP2500/DennisCollinPaper.pdf)
+
++ [ ] [ARP Instruments. Owner’s Manual: The ARP Electronic Music Synthesizer Series 2500. (links para download em três partes, no topo da página)](https://guitarfool.com/ARP2500)
+
++ [Analog Computing for Artificial Intelligence: How to Perform MAC Operations Using Ohm’s Law (requer registro para download)](https://www.allaboutcircuits.com/industry-white-papers/analog-computing-for-artificial-intelligence-how-to-perform-mac-operations-using-ohms-law/)
+[Digital-analog quantum convolutional neural networks for image classification ](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.L042060 )
+
++ [Fabricante de CIs para aplicações de áudio. Aparentemente produzem um componente que pode ser utilizado em um ARP1047](https://www.soundsemiconductor.com/downloads/AN701.pdf)
+
