@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "ARP1047 filtro de audio e computador analógico"
+  title: "Computador analógico para aplicação em áudio"
   navbar:
     left:
       - href: index.qmd
@@ -20,6 +20,7 @@ website:
   repo-url: https://github.com/gilfuser/computador-analogico-para-aplicacao-em-audio-arp1047
   repo-actions: [edit, source, issue]
 
+  reader-mode: true
 
 format:
   html:
