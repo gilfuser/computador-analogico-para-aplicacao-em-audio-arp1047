@@ -1,0 +1,10 @@
+![Curvas características dos filtros e ressonador do ARP 1047 (Fonte: Manual do proprietário, pág. 43)](imagens/curvas-caracteristicas-1.png)
+
+# Resultados a serem atingidos
+
+Ao término deste trabalho, espera-se obter uma versão funcional e modernizada do filtro/ressonador multimodo ARP 1047. A análise do seu desempenho deve demonstrar curvas características compatíveis com as especificações do circuito original. O módulo será testado em um contexto musical, integrado a outros módulos com funções distintas, permitindo uma avaliação qualitativa de seu comportamento sonoro e de sua aplicação em performances e produções musicais.
+
+Além disso, a substituição de componentes obsoletos por equivalentes modernos possibilitará um estudo comparativo entre a resposta do circuito original e sua versão atualizada, contribuindo para o entendimento da viabilidade da computação analógica aplicada ao processamento de áudio.
+
+![Curvas características dos filtros e ressonador do ARP 1047 (Fonte: Manual do proprietário, pág. 43)](imagens/curvas-caracteristicas-2.png)
+

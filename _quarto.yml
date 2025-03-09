@@ -9,6 +9,17 @@ website:
         text: home
       - href: bibliografia.qmd
         text: bibliografia
+      - href: intro.qmd
+        text: introdução
+      - href: materiais-e-metodos.qmd
+        text: métodos
+      - href: resultados.qmd
+        text: resultados
+      - href: cronograma
+        text: cronograma
+  repo-url: https://github.com/gilfuser/computador-analogico-para-aplicacao-em-audio-arp1047
+  repo-actions: [edit, source, issue]
+
 
 format:
   html:

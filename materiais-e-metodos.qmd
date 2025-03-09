@@ -1,0 +1,7 @@
+![esquema original do circuito](imagens/1047_sch.jpg)
+
+# Materiais e Métodos
+
+Este trabalho basear-se-á no [artigo de Collins](https://www.guitarfool.com/ARP2500/DennisCollinPaper.pdf), no [manual do proprietário](https://guitarfool.com/ARP2500) do ARP 2500 (sistema modular ao qual o ARP 1047 pertence) e no esquema original do circuito (figura acima). A metodologia envolverá engenharia reversa, pois alguns componentes utilizados na época não estão mais disponíveis e precisarão ser substituídos por equivalentes modernos.
+
+A compreensão e análise do circuito original será realizada por meio de sua simulação no software [KiCad](https://www.kicad.org). A partir dessa análise, serão feitas as adaptações necessárias antes de iniciar as etapas de aquisição de materiais e construção do filtro/ressonador.

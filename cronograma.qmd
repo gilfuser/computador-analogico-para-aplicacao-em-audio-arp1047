@@ -1,0 +1,11 @@
+# Cronograma
+
+|                                    |     |     |     |     | 2025|     |     |     |     |     |
+|          ---                       |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| ATIVIDADES                         | MAR | ABR | MAI | JUN | JUL | AGO | SET | OUT | NOV | DEZ |
+| Pesquisa bibliográfica             |  x  |  x  |     |     |     |     |     |     |     |     |
+|  Análise e simulação               |     |  x  |  x  |  x  |     |     |     |     |     |     |
+|  Aquisição e testes dos componentes|     |     |     |  x  |  x  |     |     |     |     |     |
+|  Construção do módulo              |     |     |     |     |  x  |  x  |  x  |     |     |     |
+|  Testes do módulo                  |     |     |     |     |     |     |     |  x  |  x  |     |
+|  Escrita da monografia e defesa    |     |     |     |     |     |     |  x  |  x  |  x  |  x  |
