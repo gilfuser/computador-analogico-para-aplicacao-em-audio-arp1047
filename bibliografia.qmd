@@ -1,6 +1,9 @@
-Aqui está a bibliografia em construção, ainda um pouco caótica e exagerada.Tem que ser organizada e editada em relação ao conteúdo mais ou menos relevante para o trabalho. Também carecem de notas, que podem ser feitas com o uso de plugin específico para o navegador, quando for o caso, ou nativamente com o software Okular, para visualização de PDF no Linux, ou no Kindle.
+Aqui está a bibliografia em construção, ainda um pouco caótica e exagerada.
+É um repositório de fontes e refrências que não serão necesariamente utilizadas no trabalho, mas que estão aqui disponíveis.
 
-Algumas referências devem ser redundantes ou conterem pequenos trechos relevantes em meio a assuntos que são, em sua maior parte, apenas tangentes. Indentificar esses textos é parte da organização a ser feita.
+Notas podem ser feitas com o uso de plugin específico para o navegador, quando for o caso, ou com o software Okular, para visualização de PDF no Linux, ou no Kindle.
+
+Algumas referências são redundantes ou contém apenas pequenos trechos relevantes em meio a assuntos que são, em sua maior parte, tangentes, muito avançados ou amplos em relação ao trabalho.
 
 As bibliografias lidas e analisadas serão marcadas.
 
@@ -23,8 +26,11 @@ A bibliografia pode ser classificada em três eixos e assuntos, que podem, event
 ## Assuntos específicos
 
 1. ARP 1470 [A]
+2. Amplificadores Operacionais [O]
 
 # Websites e forums online
+
++ [ ] [Video tutoriais sobre amplificadores operacionais](https://www.allaboutcircuits.com/video-tutorials/op-amp-voltage-comparator-circuit)
 
 + [Site da fundação que cuida do legado da empresa e do inventor do ARP2500 e outros sinths](https://alanrpearlmanfoundation.org/)
 
