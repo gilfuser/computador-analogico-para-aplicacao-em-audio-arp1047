@@ -84,6 +84,8 @@ A bibliografia pode ser classificada em três eixos e assuntos, que podem, event
 
 # Artigos, manuais e textos técnicos
 
++ [ ] [Amplificador Operacional](https://www.lsi.usp.br/~roseli/www/psi2307_2004-Teoria-7-AmpOp.pdf)
+
 + [ ] [**Electrical Design and Musical Applications of an Unconditionally Stable Combination Voltage Controlled Filter/Resonator. Dennis P Collin. 1971.**](https://www.guitarfool.com/ARP2500/DennisCollinPaper.pdf)
 
 + [ ] [ARP Instruments. Owner’s Manual: The ARP Electronic Music Synthesizer Series 2500. (links para download em três partes, no topo da página)](https://guitarfool.com/ARP2500)
