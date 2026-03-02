@@ -4,8 +4,18 @@
 |          ---                       |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | ATIVIDADES                         | MAR | ABR | MAI | JUN | JUL | AGO | SET | OUT | NOV | DEZ |
 | Pesquisa bibliográfica             |  x  |  x  |     |     |     |     |     |     |     |     |
-|  Análise e simulação               |     |  x  |  x  |  x  |     |     |     |     |     |     |
-|  Aquisição e testes dos componentes|     |     |     |  x  |  x  |     |     |     |     |     |
-|  Construção do módulo              |     |     |     |     |  x  |  x  |  x  |     |     |     |
-|  Testes do módulo                  |     |     |     |     |     |     |     |  x  |  x  |     |
-|  Escrita da monografia e defesa    |     |     |     |     |     |     |  x  |  x  |  x  |  x  |
+|  Análise e simulação               |     |  x  |     |     |     |     |     |     |     |     |
+|  Aquisição e testes dos componentes|     |     |     |     |     |     |     |     |     |     |
+|  Construção do módulo              |     |     |     |     |     |     |     |     |     |     |
+|  Testes do módulo                  |     |     |     |     |     |     |     |     |     |     |
+|  Escrita da monografia e defesa    |     |     |     |     |     |     |     |     |     |     |
+
+
+|                                    |     |     |     |     |     | 2026|     |     |     |     |     |
+|          ---                       |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| ATIVIDADES                         | FEV | MAR | ABR | MAI | JUN | JUL | AGO | SET | OUT | NOV | DEZ |
+|  Análise e simulação               |  x  |  x  |  x  |     |     |     |     |     |     |     |     |
+|  Aquisição e testes dos componentes|     |     |     |  x  |  x  |     |     |     |     |     |     |
+|  Construção do módulo              |     |     |     |     |  x  |     |  x  |  x  |     |     |     |
+|  Testes do módulo                  |     |     |     |     |     |     |     |     |  x  |  x  |     |
+|  Escrita da monografia e defesa    |     |     |     |     |     |     |  x  |  x  |  x  |  x  |  x  |
